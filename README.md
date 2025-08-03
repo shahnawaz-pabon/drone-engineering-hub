@@ -1,25 +1,25 @@
+<!-- omit in toc -->
 # 🛸 Setting Up BETAFPV 2.4GHz AIO RX with RadioMaster Pocket (Meteor75 Pro)
 
 This guide walks you through the full process of setting up the BETAFPV 2.4GHz AIO RX (ELRS) with the RadioMaster Pocket transmitter on a Meteor75 Pro drone.
 
+<!-- omit in toc -->
 ## **📌 Table of Contents**  
-- [🛸 Setting Up BETAFPV 2.4GHz AIO RX with RadioMaster Pocket (Meteor75 Pro)](#-setting-up-betafpv-24ghz-aio-rx-with-radiomaster-pocket-meteor75-pro)
-  - [**📌 Table of Contents**](#-table-of-contents)
-  - [📦 Hardware \& Firmware Details](#-hardware--firmware-details)
-  - [**📻 1. Radio Setup (Radiomaster Pocket)**](#-1-radio-setup-radiomaster-pocket)
-    - [**Button Configuration for Meteor75 Pro**](#button-configuration-for-meteor75-pro)
-    - [**Creating a New Model**](#creating-a-new-model)
-  - [**📡 2. ExpressLRS Binding**](#-2-expresslrs-binding)
-    - [**Drone Setup**](#drone-setup)
-    - [**Radio Setup**](#radio-setup)
-  - [**💻 3. Betaflight Installation (Linux)**](#-3-betaflight-installation-linux)
-  - [**⚙️ 4. Betaflight Configuration**](#️-4-betaflight-configuration)
-  - [**🔄 5. Flight Modes Setup**](#-5-flight-modes-setup)
-  - [**💾 6. CLI Backup \& Button Mapping**](#-6-cli-backup--button-mapping)
-    - [**Creating a CLI Dump**](#creating-a-cli-dump)
-    - [**Radiomaster Pocket Button Functions**](#radiomaster-pocket-button-functions)
-  - [**🚁 7. Arming \& Testing**](#-7-arming--testing)
-  - [**🔧 Troubleshooting**](#-troubleshooting)
+- [📦 Hardware \& Firmware Details](#-hardware--firmware-details)
+- [**📻 1. Radio Setup (Radiomaster Pocket)**](#-1-radio-setup-radiomaster-pocket)
+  - [**Button Configuration for Meteor75 Pro**](#button-configuration-for-meteor75-pro)
+  - [**Creating a New Model**](#creating-a-new-model)
+- [**📡 2. ExpressLRS Binding**](#-2-expresslrs-binding)
+  - [**Drone Setup**](#drone-setup)
+  - [**Radio Setup**](#radio-setup)
+- [**💻 3. Betaflight Installation (Linux)**](#-3-betaflight-installation-linux)
+- [**⚙️ 4. Betaflight Configuration**](#️-4-betaflight-configuration)
+- [**🔄 5. Flight Modes Setup**](#-5-flight-modes-setup)
+- [**💾 6. CLI Backup \& Button Mapping**](#-6-cli-backup--button-mapping)
+  - [**Creating a CLI Dump**](#creating-a-cli-dump)
+  - [**Radiomaster Pocket Button Functions**](#radiomaster-pocket-button-functions)
+- [**🚁 7. Arming \& Testing**](#-7-arming--testing)
+- [**🔧 Troubleshooting**](#-troubleshooting)
 
 ---
 
